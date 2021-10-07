@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>subbu1</finalName>
+    <finalName>subbu2</finalName>
   </build>
 </project>
